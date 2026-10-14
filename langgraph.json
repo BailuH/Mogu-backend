@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agents": "./src/criminal/court_flow.py:app",
+    "civil": "./src/civil/court_flow.py:app"
+  },
+  "env": ".env"
+}
